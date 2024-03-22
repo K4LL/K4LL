@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">I like to code some back-end stuff</h3>
 
-- 🔭 I’m currently working on [Kaii Framework](https://github.com/K4LL/Kaii-Framework)
+- 🔭 I’m not working on anything
 - 📫 If you want to contact me **K4ll.569lk@gmail.com**
 
 <h3 align="left">I can use:</h3>
