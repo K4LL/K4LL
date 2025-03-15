@@ -29,3 +29,17 @@
 </picture>
 
 ###
+
+<p align="left">As you can see, I don't use GitHub very much (I don't use it at all)  🤒🤒</p>
+
+###
+
+<p align="left">Anyway, I should have some trash project that you can check out here:<br>I'll put the link later</p>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media.tenor.com/2q50X-vRr3wAAAAi/skull.gif"  />
+</div>
+
+###
